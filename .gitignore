@@ -1,0 +1,6 @@
+webdriver
+logs/
+download/
+__pycache__/
+venv/
+extensions/*

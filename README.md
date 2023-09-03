@@ -2,6 +2,7 @@
 Automatically download new releases of APKs and apply a custom patch to them.
 
 ## Status
+What works:
 - Watching for app updates
 - Download newest app version
 
